@@ -10,9 +10,7 @@ TODO+ is a task management system that allows users to create, organize, and tra
 
 - **Python 3.14**
 - **Django 6.0** — web framework
-- **SQLite** — database
 - **python-telegram-bot** — Telegram bot library
-- **Bootstrap / Custom CSS** — frontend styling
 - **dateparser** — natural language date parsing
 - **requests** — weather API integration
 
