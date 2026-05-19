@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 from asgiref.sync import sync_to_async
 
-TOKEN = "8265486442:AAGovuD08MuP_AS5TiI3Y3a3LwORq_obwjA"
+TOKEN = "**********************"
 
 GREETING = 0
 TITLE, PRIORITY, DEADLINE = range(1, 4)
